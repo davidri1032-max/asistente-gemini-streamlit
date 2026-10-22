@@ -23,7 +23,7 @@ try:
     api_key = st.secrets["GEMINI_API_KEY"]
 except Exception:
     # ⚠️ REEMPLAZA ESTA CADENA POR TU CLAVE REAL DE GOOGLE AI STUDIO PARA PRUEBAS LOCALES
-    api_key = "GEMINI_API_KEY"
+    api_key =AQ.Ab8RN6J97G4hEIp1Q2lErcz4uozMni-ltIF77lSqKI7oCz3ePA
 
 # Fallback complementario: variable de entorno del sistema o archivo .env
 if not api_key or api_key == "GEMINI_API_KEY":
