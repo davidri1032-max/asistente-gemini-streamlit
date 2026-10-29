@@ -1,8 +1,9 @@
 @echo off
-title Asistente Virtual Astra - Streamlit
+title Simulador de Entrevistas Tecnicas con IA - Streamlit
 echo ============================================================
-echo   Iniciando Asistente Virtual 'Astra' con Streamlit
-echo   Materia: Sistemas Inteligentes - Dra. Aiblis Susej Herrera
+echo   Iniciando Simulador de Entrevistas Tecnicas con IA
+echo   Challenge Lab - Materia: Sistemas Inteligentes (UAdeO)
+echo   Docente: Dra. Aiblis Susej Herrera Palafox
 echo ============================================================
 python -m streamlit run app.py
 pause
